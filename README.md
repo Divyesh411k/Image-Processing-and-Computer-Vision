@@ -1,4 +1,4 @@
-<h1>Image proccessing and Comouter Vision</h1>h1><br> 
+<h1>Image proccessing and Comouter Vision</h1><br> 
 Lab 1: Arithematic and Logical Operations on Image <br> 
 Lab 2:<br> 
 Lab 3: Image Enhancement in Spatial Domain using Point Processing Techniques<br> 
